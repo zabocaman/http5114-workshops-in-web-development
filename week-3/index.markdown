@@ -42,6 +42,33 @@ This is also __bold__ and _italics_.
 
 This is a link to [my portfolio](https://www.linkedin.com/in/warrenchanansingh)
 
+##Commenting
+<!-- HTML Comments?-->
+
+##Tables 
+
+| Lanuguage   |Semester    |Front or Back
+|-----------|-------|----
+|HTML          |1     |Front
+|PHP    | 2     |Back
+
+##Code
+
+You can add in-line single tics. 
+
+Crate a variable named `var test = 1`.
+
+` is a tick located on the top left of the keyboard
+
+Or you can use three ticks for a block of code:
+
+```javascript
+var test = 1;
+if(test=1)
+{
+    console.log =("Hello World!");
+}
+
 <style> 
 h1 {color: blue;
 }
